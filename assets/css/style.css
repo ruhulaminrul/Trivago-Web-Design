@@ -396,6 +396,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 5px;
   border-radius: 10px;
   margin: 10px 0;
+  cursor: pointer;
 }
 #search-result .box .image img{
   border-radius: 10px;
@@ -524,4 +525,7 @@ h1, h2, h3, h4, h5, h6 {
 #search-result .price .book span{
   font-size: 12px;
   color: #37454D;
+}
+.collapse-section{
+  border-top: 1px solid #ebeced;
 }
