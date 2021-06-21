@@ -363,6 +363,10 @@ h1, h2, h3, h4, h5, h6 {
   border: none;
   border-radius: 10px;
 }
+#home-search .search-select select{
+  border: none;
+  margin-top: 10px;
+}
 /* #home-search .tab-content .step-one{
   border-right: 1px solid #dae2eb;
 } */
