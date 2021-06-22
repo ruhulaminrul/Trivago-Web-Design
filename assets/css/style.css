@@ -299,8 +299,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 20px;
 }
 .logo-image img{
-  width: 180px;
-  height: 58px;
+  width: 100%;
+ 
 }
 .logo-content{
     border-left: 1px solid #ebeced;
@@ -462,7 +462,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 #search-result .powerd img{
   width: 90px;
-  height: 15px;
   margin-left: 10px;
   margin-bottom: 10px;
 }
